@@ -18,23 +18,21 @@ or annoy us at the #godotengine-devel IRC channel!
 
 The main documentation for the site is organized into a few sections:
 
-* :ref:`sec-tutorials`
+* :ref:`sec-manual`: 
+* :ref:`sec-learn`
 * :ref:`sec-reference`
+* :ref:`sec-developers`
 * :ref:`sec-community`
+* :ref:`sec-demos`
 
 .. toctree::
    :maxdepth: 1
-   :caption: Tutorials
-   :name: sec-tutorials
+   :caption: Learn
+   :name: sec-learn
 
-   tutorials/step_by_step/_step_by_step
+   1_LEARN/10_BASICS/2d_and_3d_keybindings
    tutorials/engine/_engine
-   tutorials/2d/_2d
-   tutorials/3d/_3d
-   tutorials/_networking
-   tutorials/_plugins
-   tutorials/_misc_tutorials
-   tutorials/asset_pipeline/_asset_pipeline
+  
 
 .. toctree::
    :maxdepth: 1

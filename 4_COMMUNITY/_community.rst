@@ -1,9 +1,9 @@
-Contributing
-============
+Community
+=========
 
 .. toctree::
    :maxdepth: 1
-   :name: toc-contributing
+   :name: toc-community
 
    bug_triage_guidelines
    doc_and_l10n_guidelines
